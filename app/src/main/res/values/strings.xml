@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="welcome">Welcome!</string>
+    <string name="please_enter_telephone_or_email">Please, enter telephone or email:</string>
+    <string name="telephone_hint">Telephone</string>
+    <string name="email_hint">Email</string>
+    <string name="next">Next</string>
+    <string name="please_enter_the_code">We have sent you a message with a code to verify your phone number. Please, enter the code:</string>
+    <string name="code_hint">Code received by sms</string>
+    <string name="sign_in">Sign In</string>
+    <string name="telephone_et_error">Please, enter correct telephone</string>
+    <string name="email_et_error">Please, enter correct email</string>
+    <string name="incorrect_code">Incorrect code</string>
+    <string name="news_label">News</string>
+    <string name="my_news_label">My News</string>
+    <string name="profile_label">Profile</string>
+</resources>

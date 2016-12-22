@@ -8,10 +8,6 @@ import android.view.ViewGroup;
 
 import com.testproject.testproject.R;
 
-/**
- * Created by AlexanderFomich on 21.12.16.
- */
-
 public class MyNewsFragment extends Fragment {
 
     @Override

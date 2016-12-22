@@ -15,9 +15,6 @@ import android.widget.TextView;
 import com.testproject.testproject.R;
 import com.testproject.testproject.modules.registration.activity.RegistrationActivity;
 
-/**
- * Created by AlexanderFomich on 21.12.16.
- */
 
 public class ConfirmationFragment extends Fragment implements Button.OnClickListener{
     private EditText codeEt;

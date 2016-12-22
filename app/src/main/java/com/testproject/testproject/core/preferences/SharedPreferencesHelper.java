@@ -6,6 +6,9 @@ import android.preference.PreferenceManager;
 
 
 import java.io.IOException;
+
+
+//Класс для работы с SharedPreferences
 public final class SharedPreferencesHelper implements LocalPreference {
     private final Context context;
 

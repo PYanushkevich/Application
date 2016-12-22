@@ -3,10 +3,7 @@ package com.testproject.testproject.modules.registration.api;
 import android.content.Context;
 import android.os.CountDownTimer;
 
-/**
- * Created by AlexanderFomich on 21.12.16.
- */
-
+//Класс, для общения с сервером для регистрации. Имитирует запрос на 1 сек
 public class RegistrationInteractor {
 
     public interface Callback {

@@ -15,9 +15,6 @@ import com.testproject.testproject.R;
 import com.testproject.testproject.modules.registration.activity.RegistrationActivity;
 import com.testproject.testproject.modules.registration.api.RegistrationInteractor;
 
-/**
- * Created by AlexanderFomich on 21.12.16.
- */
 
 public class LoginFragment extends Fragment implements Button.OnClickListener {
     private EditText telephoneEt;
